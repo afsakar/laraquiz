@@ -1,4 +1,4 @@
-# LaraQuiz
+# 📝 LaraQuiz
 
 Quiz application build with Laravel 8
 
@@ -12,8 +12,8 @@ Quiz application build with Laravel 8
 * Run <code>php artisan migrate</code> and <code>php artisan db:seed</code>
 
 
-**Login informations;**
-Username: superadmin@example.com
+**Login informations;**<br>
+Username: superadmin@example.com<br>
 Password: password
 
 ## Credits
