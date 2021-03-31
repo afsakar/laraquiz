@@ -9,6 +9,7 @@ Quiz application build with Laravel 8
 * Rename or copy <code>.env.example</code> file to <code>.env</code>
 * Run <code>php artisan key:generate</code>
 * Set your database credentials in your <code>.env</code> file
+* Run <code>php artisan migrate</code> and <code>php artisan db:seed</code>
 
 
 **Login informations;**
