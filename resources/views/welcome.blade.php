@@ -32,7 +32,7 @@
                     <a href="{{ url('/dashboard') }}" class="text-sm text-gray-700 underline">Dashboard</a>
                 @else
                     @if (Route::has('register'))
-                        <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 underline">Register</a>
+                        <a href="{{ route('register') }}" class="ml-4 btn btn-secondary">Register</a>
                     @endif
                 @endauth
             </div>
